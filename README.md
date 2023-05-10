@@ -3,7 +3,7 @@
 
 ## 安装命令
 ```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh && bash bbr.sh install
+wget -N --no-check-certificate https://github.com/XianggaoWang/YankeeBBR/blob/master/bbr.sh && bash bbr.sh install
 ```
 
 然后根据提示重启系统。
